@@ -8,20 +8,20 @@ export default function Footer() {
           <div className="mb-6 md:mb-0">
             <span className="text-xl font-bold text-zinc-900 dark:text-white">Nishu Kumar Yadav</span>
             <p className="text-sm text-zinc-500 dark:text-zinc-400 mt-2">
-              Full Stack Java Developer
+              Full Stack Python Developer
             </p>
           </div>
           
           <div className="flex space-x-6">
-            <a href="mailto:nishuy421@gmail.com" className="text-zinc-400 hover:text-emerald-500 transition-colors">
+            <a href="tannuk.2404@gmail.com" className="text-zinc-400 hover:text-emerald-500 transition-colors">
               <span className="sr-only">Email</span>
               <Mail className="h-6 w-6" />
             </a>
-            <a href="https://www.linkedin.com/in/nishu-kumar-yadav-7b3384305" target="_blank" rel="noopener noreferrer" className="text-zinc-400 hover:text-emerald-500 transition-colors">
+            <a href="https://www.linkedin.com/in/tannu-kumari-b698a8254/" target="_blank" rel="noopener noreferrer" className="text-zinc-400 hover:text-emerald-500 transition-colors">
               <span className="sr-only">LinkedIn</span>
               <Linkedin className="h-6 w-6" />
             </a>
-            <a href="https://github.com/nishuyadav421" target="_blank" rel="noopener noreferrer" className="text-zinc-400 hover:text-emerald-500 transition-colors">
+            <a href="https://github.com/Tannu-hub" target="_blank" rel="noopener noreferrer" className="text-zinc-400 hover:text-emerald-500 transition-colors">
               <span className="sr-only">GitHub</span>
               <Github className="h-6 w-6" />
             </a>
@@ -30,7 +30,7 @@ export default function Footer() {
         
         <div className="mt-8 pt-8 border-t border-zinc-200 dark:border-zinc-800 text-center">
           <p className="text-sm text-zinc-500 dark:text-zinc-400">
-            &copy; {new Date().getFullYear()} Nishu Kumar Yadav. All rights reserved.
+            &copy; {new Date().getFullYear()} Tannu Kumari. All rights reserved.
           </p>
         </div>
       </div>

@@ -20,10 +20,10 @@ export default function About() {
             transition={{ duration: 0.5 }}
           >
             <p className="text-lg text-zinc-600 dark:text-zinc-300 leading-relaxed mb-6">
-              I am a passionate and results-driven Full Stack Java Developer with strong foundational knowledge and hands-on internship experience in building responsive and scalable web applications.
+              I am a passionate and results-driven Full Stack Python Developer with strong foundational knowledge and hands-on internship experience in building responsive and scalable web applications.
             </p>
             <p className="text-lg text-zinc-600 dark:text-zinc-300 leading-relaxed mb-6">
-              I recently completed my B.Tech in Computer Science & Engineering and gained practical exposure during my 8-month Java Full Stack Internship at QSpiders / JSpiders, Noida, where I worked on both frontend and backend technologies.
+              I recently completed my B.Tech in Computer Science & Engineering and gained practical exposure during my 8-month Python Full Stack Internship at QSpiders / JSpiders, Noida, where I worked on both frontend and backend technologies.
             </p>
             <p className="text-lg text-zinc-600 dark:text-zinc-300 leading-relaxed">
               I enjoy solving problems, writing clean and efficient code, and continuously improving my development skills. I am a fast learner, a strong team player, and someone who adapts quickly to new technologies and environments.
@@ -39,8 +39,8 @@ export default function About() {
           >
             {[
               { icon: <Code className="w-8 h-8 text-emerald-500" />, title: "Frontend", desc: "HTML, CSS, JS" },
-              { icon: <Server className="w-8 h-8 text-emerald-500" />, title: "Backend", desc: "Java, Spring Boot" },
-              { icon: <Database className="w-8 h-8 text-emerald-500" />, title: "Database", desc: "MySQL, JDBC" },
+              { icon: <Server className="w-8 h-8 text-emerald-500" />, title: "Backend", desc: "Python, Django, Django ORM, REST API" },
+              { icon: <Database className="w-8 h-8 text-emerald-500" />, title: "Database", desc: "MySQL" },
               { icon: <User className="w-8 h-8 text-emerald-500" />, title: "Problem Solving", desc: "DSA" },
             ].map((item, index) => (
               <div key={index} className="p-6 bg-zinc-50 dark:bg-zinc-800 rounded-2xl border border-zinc-100 dark:border-zinc-700 hover:shadow-md transition-shadow">

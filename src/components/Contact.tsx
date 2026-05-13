@@ -29,8 +29,8 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-zinc-900 dark:text-white mb-1">Email</h3>
-                <a href="mailto:nishuy421@gmail.com" className="text-zinc-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors">
-                  nishuy421@gmail.com
+                <a href="tannuk.2404@gmail.com" className="text-zinc-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors">
+                  tannuk.2404@gmail.com
                 </a>
               </div>
             </div>
@@ -41,8 +41,8 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="text-lg font-semibold text-zinc-900 dark:text-white mb-1">LinkedIn</h3>
-                <a href="https://www.linkedin.com/in/nishu-kumar-yadav-7b3384305" target="_blank" rel="noopener noreferrer" className="text-zinc-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors break-all">
-                  linkedin.com/in/nishu-kumar-yadav-7b3384305
+                <a href="https://www.linkedin.com/in/tannu-kumari-b698a8254/" target="_blank" rel="noopener noreferrer" className="text-zinc-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors break-all">
+                  https://www.linkedin.com/in/tannu-kumari-b698a8254/
                 </a>
               </div>
             </div>
@@ -54,12 +54,12 @@ export default function Contact() {
   <div>
     <h3 className="text-lg font-semibold text-zinc-900 dark:text-white mb-1">GitHub</h3>
     <a 
-      href="https://github.com/nishuyadav421" 
+      href="https://github.com/Tannu-hub" 
       target="_blank" 
       rel="noopener noreferrer" 
       className="text-zinc-600 hover:text-emerald-600 dark:text-zinc-400 dark:hover:text-emerald-400 transition-colors"
     >
-      github.com/nishuyadav421
+     https://github.com/Tannu-hub
     </a>
   </div>
 </div>

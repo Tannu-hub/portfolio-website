@@ -10,13 +10,13 @@ const education = [
   },
   {
     degree: "Class XII (Secondary Education)",
-    institution: "VK, Jharkhand Academic Council",
+    institution: "UPGRADED +2 S S High School",
     date: "Completed",
     icon: <BookOpen className="h-6 w-6 text-emerald-600 dark:text-emerald-400" />
   },
   {
     degree: "Class X (Secondary Education)",
-    institution: "DAV Centenary Public School - India",
+    institution: "SMT J D A Girls High School;",
     date: "Completed",
     icon: <BookOpen className="h-6 w-6 text-emerald-600 dark:text-emerald-400" />
   }

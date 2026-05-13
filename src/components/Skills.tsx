@@ -1,9 +1,8 @@
 import { motion } from 'motion/react';
 
 const skills = [
-  "Core Java",
-  "Spring Boot",
-  "JDBC",
+  "Python",
+  "Django",
   "MySQL",
   "HTML",
   "CSS",
