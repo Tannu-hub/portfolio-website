@@ -14,13 +14,13 @@ export default function Hero() {
             Hello, I'm
           </h2>
           <h1 className="text-5xl md:text-7xl font-extrabold text-zinc-900 dark:text-white tracking-tight mb-4">
-            Nishu Kumar Yadav
+           Tannu Kumari
           </h1>
           <h3 className="text-2xl md:text-3xl font-medium text-zinc-600 dark:text-zinc-300 mb-6">
-            Full Stack Java Developer
+            Full Stack Python Developer
           </h3>
           <p className="mt-4 max-w-2xl text-lg text-zinc-500 dark:text-zinc-400 mx-auto mb-10">
-            Building scalable web applications using Java and modern web technologies.
+            Building scalable web applications using Python and modern web technologies.
           </p>
           
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

@@ -27,7 +27,7 @@ export default function Navbar({ toggleTheme, isDark }: { toggleTheme: () => voi
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0">
-            <a href="#" className="text-xl font-bold text-zinc-900 dark:text-white">NKY</a>
+            <a href="#" className="text-xl font-bold text-zinc-900 dark:text-white">Tannu</a>
           </div>
           
           <div className="hidden md:flex items-center space-x-8">

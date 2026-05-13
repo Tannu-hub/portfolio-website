@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
-            <span className="text-xl font-bold text-zinc-900 dark:text-white">Nishu Kumar Yadav</span>
+            <span className="text-xl font-bold text-zinc-900 dark:text-white">Tannu Kumari</span>
             <p className="text-sm text-zinc-500 dark:text-zinc-400 mt-2">
               Full Stack Python Developer
             </p>
